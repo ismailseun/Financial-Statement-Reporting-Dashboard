@@ -78,4 +78,44 @@ Key Data Components
     • Profit or Loss Statement
     • Statement of Financial Position
     • Cash Flow Statement
-    
+---    
+🔍 Key Business Insights
+**Revenue Growth**
+
+Sales revenue increased consistently across the reporting periods:
+
+Year	Revenue
+2023	3.58M
+2024	5.70M
+2025	7.84M
+
+**Profitability**
+
+Net profit improved significantly over the reporting period:
+
+Year	Net Profit
+2023	0.62M
+2024	1.30M
+2025	1.29M
+
+**Margin Performance**
+
+The dashboard tracks:
+Gross Profit Margin
+Net Profit Margin
+
+allowing management to evaluate operational efficiency and profitability trends over time.
+
+Financial Position
+
+The organization maintained a growing asset base while increasing retained earnings and shareholders' equity across reporting periods.
+
+💡 Business Value
+
+This solution demonstrates modernizes traditional financial reporting by:
+
+    • Reducing manual reporting effort
+    • Improving financial transparency
+    • Supporting management reporting
+    • Enhancing decision-making capabilities
+   
