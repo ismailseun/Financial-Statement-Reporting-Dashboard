@@ -116,4 +116,5 @@ This solution demonstrates modernizes traditional financial reporting by:
     • Improving financial transparency
     • Supporting management reporting
     • Enhancing decision-making capabilities
-   
+---   
+📊 Power BI Dashboard: https://github.com/ismailseun/Financial-Statement-Reporting-Dashboard/blob/main/Financial%20Statements%20-%20Power%20BI%20Dashboard%20Screenshot.jpg
