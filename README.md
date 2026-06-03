@@ -52,6 +52,7 @@ The objective of this project was to build a scalable Power BI reporting solutio
     • Cash Flow Statement Reporting
     • Financial Ratio Analysis
     • Chart of Accounts Mapping
+
 ---
 📂 Data Source
 
