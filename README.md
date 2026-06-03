@@ -25,34 +25,57 @@ The objective of this project was to build a scalable Power BI reporting solutio
 ---
 🛠️ Tech Stack
 
-📊 Power BI
+📊 Power BI:
     • Interactive dashboard development
     • Financial reporting visualization
     • Drill-down reporting
     
-🔄 Power Query
+🔄 Power Query:
     • Data extraction
     • Data transformation
     • Data cleansing
     
-🧮 DAX (Data Analysis Expressions)
+🧮 DAX:
     • Financial KPI calculations
     • Margin calculations
     • Cash flow measures
     • Dynamic reporting logic
     
-📁 Microsoft Excel
+📁 Microsoft Excel:
     • Source accounting data
     • Financial statement mappings
     • Journal entry data
     
-🏦 Financial Reporting Concepts
+🏦 Financial Reporting Concepts:
     • Income Statement Reporting
     • Balance Sheet Reporting
     • Cash Flow Statement Reporting
     • Financial Ratio Analysis
     • Chart of Accounts Mapping
+---
+📂 Data Source
 
+The dashboard was developed using accounting transaction data and financial reporting mappings maintained in Excel.
 
+Key Data Components
 
+📒 General Ledger Transactions:
+
+    • Revenue accounts
+    • Expense accounts
+    • Asset accounts
+    • Liability accounts
+    • Equity accounts
+
+📑 Chart of Accounts Structure:
+
+    • Financial statement classifications
+    • Account hierarchy mappings
+    • Reporting categories
+
+📊 Financial Statement Mapping:
+
+    • Profit or Loss Statement
+    • Statement of Financial Position
+    • Cash Flow Statement
     
