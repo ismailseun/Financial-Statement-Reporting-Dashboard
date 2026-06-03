@@ -24,23 +24,28 @@ The objective of this project was to build a scalable Power BI reporting solutio
     • Supports management decision-making
 ---
 🛠️ Tech Stack
+
 📊 Power BI
     • Interactive dashboard development
     • Financial reporting visualization
     • Drill-down reporting
+    
 🔄 Power Query
     • Data extraction
     • Data transformation
     • Data cleansing
+    
 🧮 DAX (Data Analysis Expressions)
     • Financial KPI calculations
     • Margin calculations
     • Cash flow measures
     • Dynamic reporting logic
+    
 📁 Microsoft Excel
     • Source accounting data
     • Financial statement mappings
     • Journal entry data
+    
 🏦 Financial Reporting Concepts
     • Income Statement Reporting
     • Balance Sheet Reporting
